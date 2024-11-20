@@ -1,4 +1,10 @@
-Hi there 👋
+Привет, меня зовут Александр 👋
+Я QA Automation Engineer (Python) - тестировщик автоматизатор.
+Мой стек:
+- Python
+- Pytest
+- Selenium
+- Requests 👋
 
 <!--
 **Alexandr2157/Alexandr2157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
